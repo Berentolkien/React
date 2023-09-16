@@ -1,0 +1,6 @@
+.ItemDetailContainer {
+  text-align: center;
+  margin: 20px;
+  justify-content: center;
+  display: flex; 
+}

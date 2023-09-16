@@ -1,0 +1,16 @@
+/* ItemList.css */
+
+.item-list-container {
+  display: flex;
+  flex-wrap: wrap; /* Para que los productos se envuelvan en filas */
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  /* Añade cualquier otro estilo que desees */
+}
+
+/* Estilos para cada elemento de la lista de productos */
+.item {
+  /* Estilos para cada producto individual */
+  /* Por ejemplo, ajusta el espacio entre los productos */
+  margin: 10px;
+}
